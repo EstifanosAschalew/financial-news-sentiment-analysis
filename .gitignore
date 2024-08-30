@@ -1,0 +1,7 @@
+project-venv
+.vscode
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints
+.idea/
